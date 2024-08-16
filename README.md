@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @santi-souza
+# 👋 Hi, I’m Santiago Souza Nava (@santi-souza)
 
 - 👀 I’m interested in Bioinformatics, Biostatistics computational biology, and the intersection of data science and healthcare.
   I am particularly passionate about applying machine learning techniques to analyze complex biological data and contribute to personalized medicine.
@@ -12,7 +12,7 @@
   - Proficient in R, Python, SQL, and bioinformatics tools like FASTQC, HISAT2, and GATK.
   - Currently finalizing my MSc in Bioinformatics and Biostatistics.
 
-- 💞️ I’m looking to collaborate on Projects that involve bioinformatics, data analysis, and the development of reproducible research pipelines. 
+- 🧬 I’m looking to collaborate on Projects that involve bioinformatics, data analysis, and the development of reproducible research pipelines. 
   I am eager to contribute to multidisciplinary teams working on cutting-edge research in genomics, transcriptomics, and precision medicine.
 
 - 📫 How to reach me:
@@ -21,8 +21,3 @@
   GitHub: @santi-souza
 
 - ⚡ Fun fact: I have a deep interest in the application of AI to solve complex biological problems, and I’m always looking for ways to bridge the gap between experimental biology and computational analysis.
-
-<!---
-santi-souza/santi-souza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

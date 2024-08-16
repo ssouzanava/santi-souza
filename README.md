@@ -16,8 +16,7 @@
   I am eager to contribute to multidisciplinary teams working on cutting-edge research in genomics, transcriptomics, and precision medicine.
 
 - 📫 How to reach me:
-  Email: santisouza97@gmail.com
-  LinkedIn: LinkedIn Profile
-  GitHub: @santi-souza
-
+  - Email: santisouza97@gmail.com
+  - LinkedIn: LinkedIn Profile
+ 
 - ⚡ Fun fact: I have a deep interest in the application of AI to solve complex biological problems, and I’m always looking for ways to bridge the gap between experimental biology and computational analysis.

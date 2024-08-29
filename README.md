@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Santiago Souza Nava (@santi-souza)
 
-- 👀 I’m interested in Bioinformatics, Biostatistics computational biology, and the intersection of data science and healthcare.
+- 👀 I’m interested in Bioinformatics, Biostatistics, computational biology, and the intersection of data science and healthcare.
   I am particularly passionate about applying machine learning techniques to analyze complex biological data and contribute to personalized medicine.
 
 - 🌱 I’m currently learning Advanced methods in bioinformatics and biostatistics, with a focus on omics data analysis, machine learning, and statistical modeling in medical settings. 

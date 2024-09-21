@@ -17,6 +17,7 @@
 
 - 📫 How to reach me:
   - Email: santisouza97@gmail.com
+  - Website: https://santisouza.my.canva.site/
   - LinkedIn: https://www.linkedin.com/in/santiagosouza/
  
 - ⚡ Fun fact: I have a deep interest in the application of AI to solve complex biological problems, and I’m always looking for ways to bridge the gap between experimental biology and computational analysis.

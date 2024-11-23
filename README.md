@@ -30,6 +30,6 @@ Programming Skills:
 I’m eager to collaborate on bioinformatics and data analysis projects, particularly those focused on genomics, precision medicine, and AI-powered healthcare solutions. I am looking to contribute to multidisciplinary teams and help develop reproducible research pipelines for cutting-edge biological research.
 
 📫 How to reach me:
-📧 Email: santisouza97@gmail.com
-🌐 Website: santisouza.my.canva.site
-🔗 LinkedIn: linkedin.com/in/santiagosouza
+- 📧 Email: santisouza97@gmail.com
+- 🌐 Website: santisouza.my.canva.site
+- 🔗 LinkedIn: linkedin.com/in/santiagosouza

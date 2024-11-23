@@ -1,23 +1,35 @@
 👋 Hi, I’m Santiago Souza Nava (@santi-souza)
 
-👀 I’m interested in Bioinformatics, Biostatistics, computational biology, and the intersection of data science and healthcare. 
-I am particularly passionate about applying machine learning techniques to analyze complex biological data and contribute to personalized medicine.
+👀 What I'm interested in:
+I specialize in the intersection of Bioinformatics, Biostatistics, and Computational Biology, with a focus on machine learning applications to biological data. I’m especially enthusiastic about using AI and machine learning to analyze complex omics data and predict disease outcomes in healthcare.
 
-🌱 I have recently completed my MSc in Bioinformatics and Biostatistics, with a thesis titled **"Stroke: Statistical Analysis, Exploratory Data Analysis (EDA), and Machine Learning Prediction."** 
-This project involved leveraging statistical methods and machine learning algorithms to predict stroke occurrences based on complex datasets.
+🌱 Education:
+- MSc in Bioinformatics and Biostatistics | CEMP
+Thesis: "Stroke: Statistical Analysis, Exploratory Data Analysis (EDA), and Machine Learning Prediction"
+This project focused on applying statistical methods and machine learning models (including logistic regression, random forests, and gradient boosting) to predict stroke based on complex datasets.
 
-💼 My Experience:
-- DNA/RNA extraction, PCR, and Sanger sequencing.
-- Omics data analysis, including RNA-Seq, proteomics, and microarrays.
-- Proficient in R, Python, SQL, and bioinformatics tools like FASTQC, HISAT2, and GATK.
+- BSc in Biotechnology Engineering | ORT University
+Thesis: "Molecular Detection of Lethal White Overo Syndrome and Congenital Stationary Night Blindness in Horses"
+I utilized Sanger sequencing and capillary electrophoresis to identify genetic mutations in horses, contributing to disease diagnostics in veterinary medicine.
 
-🧬 I’m looking to collaborate on projects that involve bioinformatics, data analysis, and the development of reproducible research pipelines. 
-I am eager to contribute to multidisciplinary teams working on cutting-edge research in genomics, transcriptomics, and precision medicine.
+💼 Experience:
+Bioinformatics and Biostatistics:
+- Conducted Exploratory Data Analysis (EDA) on healthcare datasets (stroke prediction).
+- Built predictive models using machine learning algorithms (logistic regression, random forests, gradient boosting).
+- Knowledge in analyzing Omics data (RNA-Seq, WGS) for biological insights.
+- Proficient in genomic analysis tools like FASTQC, HISAT2, GATK, and DESeq2.
+
+Programming Skills:
+- Bash/Unix
+- R (Data Analysis, Statistics, Machine Learning)
+- Python (Bioinformatics, Data Science, Machine Learning)
+- SQL (Data Management, Querying)
+- Familiar with bioinformatics pipelines and tools for high-throughput sequencing analysis.
+
+🧬 Looking for:
+I’m eager to collaborate on bioinformatics and data analysis projects, particularly those focused on genomics, precision medicine, and AI-powered healthcare solutions. I am looking to contribute to multidisciplinary teams and help develop reproducible research pipelines for cutting-edge biological research.
 
 📫 How to reach me:
-- Email: santisouza97@gmail.com
-- Website: [santisouza.my.canva.site](https://santisouza.my.canva.site/)
-- LinkedIn: [linkedin.com/in/santiagosouza](https://www.linkedin.com/in/santiagosouza/)
-
-⚡ Fun fact: I have a deep interest in the application of AI to solve complex biological problems, and I’m always looking for ways to bridge the gap between experimental biology and 
-computational analysis.
+📧 Email: santisouza97@gmail.com
+🌐 Website: santisouza.my.canva.site
+🔗 LinkedIn: linkedin.com/in/santiagosouza

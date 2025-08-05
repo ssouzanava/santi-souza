@@ -1,7 +1,7 @@
 👋 Hi, I’m Santiago Souza Nava (@santi-souza)
 
 **👀 What I'm interested in:**
-- I specialize in the intersection of Bioinformatics, Biostatistics, and Computational Biology, with a focus on machine learning applications to biological data. I’m especially enthusiastic about using AI and machine learning to analyze complex omics data and predict disease outcomes in healthcare. I am looking to contribute to multidisciplinary teams and help develop reproducible research pipelines for cutting-edge biological research.
+- I specialize in the intersection of Bioinformatics, Biostatistics, and Computational Biology, with a focus on machine learning applications to biological data. I’m especially enthusiastic about using AI and machine learning to analyze complex omics data and predict disease outcomes in healthcare.
 
 **🌱 Education:**
 - MSc in Bioinformatics and Biostatistics | CEMP
@@ -17,14 +17,10 @@ Bioinformatics and Biostatistics:
 - Conducted Exploratory Data Analysis (EDA) on healthcare datasets (stroke prediction).
 - Built predictive models using machine learning algorithms (logistic regression, random forests, gradient boosting).
 - Knowledge in analyzing Omics data (RNA-Seq, WGS) for biological insights.
-- Proficient in genomic analysis tools like FASTQC, HISAT2, GATK, and DESeq2.
+- Genomic analysis tools like FASTQC, HISAT2, GATK, and DESeq2.
 
 Programming Skills:
-- Bash/Unix
-- R (Data Analysis, Statistics, Machine Learning)
-- Python (Bioinformatics, Data Science, Machine Learning)
-- SQL (Data Management, Querying)
-- Familiar with bioinformatics pipelines and tools for high-throughput sequencing analysis.
+- Bash/Unix, R (Data Analysis, Statistics, Machine Learning), Python (Bioinformatics, Data Science, Machine Learning), SQL (Data Management, Querying)
 
 **📫 How to reach me:**
 - 📧 Email: santisouza97@gmail.com

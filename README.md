@@ -1,14 +1,11 @@
-👋 Hi, I’m Santiago Souza Nava (@santi-souza)
-
-**👀 What I'm interested in:**
-- I specialize in the intersection of Bioinformatics, Biostatistics, and Computational Biology, with a focus on machine learning applications to biological data. I’m especially enthusiastic about using AI and machine learning to analyze complex omics data and predict disease outcomes in healthcare.
+Hi, I’m Santiago!
 
 **🌱 Education:**
 - MSc in Bioinformatics and Biostatistics | CEMP
   - Thesis: "Stroke: Statistical Analysis, Exploratory Data Analysis (EDA), and Machine Learning Prediction"
   - This project focused on applying statistical methods and machine learning models (including logistic regression, random forests, and gradient boosting) to predict stroke based on complex datasets.
 
-- BSc in Biotechnology Engineering | ORT University
+- Biotechnology Engineering | ORT University
   - Thesis: "Molecular Detection of Lethal White Overo Syndrome and Congenital Stationary Night Blindness in Horses"
   - I utilized Sanger sequencing and capillary electrophoresis to identify genetic mutations in horses, contributing to disease diagnostics in veterinary medicine.
 
@@ -18,8 +15,6 @@ Bioinformatics and Biostatistics:
 - Built predictive models using machine learning algorithms (logistic regression, random forests, gradient boosting).
 - Knowledge in analyzing Omics data (RNA-Seq, WGS) for biological insights.
 - Genomic analysis tools like FASTQC, HISAT2, GATK, and DESeq2.
-
-Programming Skills:
 - Bash/Unix, R (Data Analysis, Statistics, Machine Learning), Python (Bioinformatics, Data Science, Machine Learning), SQL (Data Management, Querying)
 
 **📫 How to reach me:**
